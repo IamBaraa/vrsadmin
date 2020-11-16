@@ -32,3 +32,24 @@ In addition, it is designed to organize and display the important information in
 - Admins information
    
  “VRS Admin” was developed with one thing in mind, to make managing “UKM VRS” simple and efficient.
+---
+
+## Screenshots
+#### Dashboard
+![Alt text](/Screenshots/Dashboard.png?raw=true "Dashboard")
+---
+#### Manage Users
+![Alt text](/Screenshots/Users.png?raw=true "Manage Users")
+---
+#### Manage Vehicles
+![Alt text](/Screenshots/Vehicles.png?raw=true "Manage Vehicles")
+---
+#### Rental Records
+![Alt text](/Screenshots/Records.png?raw=true "Rental Records")
+---
+#### Create Admin Accounts
+![Alt text](/Screenshots/Create.png?raw=true "Create Admin Accounts")
+---
+#### Manage Admins
+![Alt text](/Screenshots/Admins.png?raw=true "Manage Admins")
+---
